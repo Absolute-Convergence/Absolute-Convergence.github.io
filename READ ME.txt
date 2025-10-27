@@ -1,4 +1,4 @@
-READ ME: 
+READ_ME: 
 
 An object-oriented C++ framework for quantitative analysis and technical trading.
 Sugar_Bot reads financial .csv candle data, computes indicator signals, backtests strategies, and performs multi-parameter (M×N) grid sweeps to discover optimal configurations.
@@ -51,6 +51,7 @@ Implemented Indicators:
 | `EMAIndicator`   | Exponential Moving Average                                   |
 | `ROCIndicator`   | Rate of Change over closes                                   |
 | `ROCOfIndicator` | Composes ROC of any base indicator (e.g. ROC(SMA), ROC(EMA)) |
+
 
 
 
