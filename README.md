@@ -1,4 +1,4 @@
 # PepsiSucks.github.io
 If you found this page, then you're looking at the projects that I have finished and you probably got here by following a link in my resume. I thank you for your time to look over my work and hope you will consider me to be part of your team.
 
-If you found this page on your own, then congratulations! There are some files for Industrial Maintenance here, and that's about it.   
+If you found this page on your own, then congratulations! There are some files for Industrial Maintenance and my own personal projects here.
