@@ -3,7 +3,7 @@
 
 Thanks for stopping by!  
 
-If you found this page through my resume — I appreciate you taking the time to explore my work.  
+If you found this page through my resume, I appreciate you taking the time to explore my work.  
 This GitHub serves as a portfolio of my C++ development projects, with a focus on **object-oriented design, algorithmic analysis, and systems engineering**.  
 
 My flagship project, **[Sugar_Bot (C++)](https://github.com/Absolute-Convergence/sugar_bot)**, demonstrates a modular trading-strategy framework built entirely in modern C++.  
